@@ -1,4 +1,4 @@
-#Projeto Dslist
+# Projeto Dslist
 
-##Api crud de games
-Construindo api que faz as operações de crud para games, construindo no modelo do padrão Rest e usando a tecnologia Spring.
+## Api de games
+Sistema de coleções de jogos, as pessoas podem organizar os seus jogos, construido no modelo Rest usando a tecnologia Spring.
